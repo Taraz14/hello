@@ -9,3 +9,7 @@ So glad you visited my private repository. 😃 I'm a junior programmer with 5 y
 #
 
 #### Thank you 😃
+![](https://img.shields.io/badge/Language-PHP-informational?style=flat&logo=PHP&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Framework-Codeigniter-informational?style=flat&logo=CodeIgniter&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/CSS-Bootstrap-informational?style=flat&logo=Bootstrap&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Jquery-informational?style=flat&logo=Jquery&logoColor=white&color=2bbc8a)
