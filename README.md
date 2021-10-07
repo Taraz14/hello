@@ -10,10 +10,6 @@ So glad you visited my private repository. 😃 I'm a junior programmer with 5 y
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=taraz14&layout=compact)](https://github.com/taraz14/inventory)
 
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=taraz14&repo=inventory" />
-</a>
-
 #### Thank you 😃
 
 #
