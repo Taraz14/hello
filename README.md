@@ -11,7 +11,7 @@ So glad you visited my private repository. 😃 I'm a junior programmer with 5 y
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=taraz14&layout=compact)](https://github.com/taraz14/inventory)
 
 #### Thank you 😃
-
+![counter](https://enej4x7zefuervr.m.pipedream.net)
 #
 ![](https://img.shields.io/badge/PHP-informational?style=flat&logo=PHP&logoColor=white&color=777BB4)
 ![](https://img.shields.io/badge/Codeigniter-informational?style=flat&logo=CodeIgniter&logoColor=white&color=red)
